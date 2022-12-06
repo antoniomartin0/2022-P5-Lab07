@@ -3,7 +3,8 @@ import java.applet.*;
 
 public class Stars {
 
-    public static void drawStars(Graphics g){
-
+    public static void drawStars(Graphics g)
+    {
+        g.setColor(Color.white);
     }
 }
