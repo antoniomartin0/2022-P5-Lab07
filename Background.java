@@ -18,4 +18,9 @@ public class Background {
         g.setColor(Color.black);
         g.fillRect(0,0,1000,225);
     }
+    public static void drawStars(Graphics g)
+    {
+            g.setColor(Color.white);
+            g.fillOval();
+    }
 }
