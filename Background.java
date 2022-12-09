@@ -20,7 +20,14 @@ public class Background {
     }
     public static void drawStars(Graphics g)
     {
-            g.setColor(Color.white);
-            g.fillOval();
+        g.setColor(Color.white);
+        g.fillOval(150,25,10,10);
+        g.fillOval(250,50,10,10);
+        g.fillOval(700,100,10,10);
+        g.fillOval(500,150,10,10);
+        g.fillOval(600,122,10,10);
+        g.fillOval(250,133,10,10);
+        g.fillOval(800,144,10,10);
+        g.fillOval(550,111,10,10);
     }
 }

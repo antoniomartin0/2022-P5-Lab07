@@ -10,7 +10,7 @@ public class Beach extends Applet{
         Background.drawStars(g);
 
         Moon.drawMoon(g);
-        Moon.drawCraters(g);
+
 
     }
 }
